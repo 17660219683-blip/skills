@@ -1,0 +1,3 @@
+display_name: 产品场景融合提示词生成器
+short_description: 上传产品图和场景图，生成融合后的文生图提示词
+default_prompt: 上传一张产品图和一张场景图，我来分析两者并生成融合后的生图提示词
