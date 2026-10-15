@@ -1,0 +1,4 @@
+interface:
+  display_name: "Douyin视频音频下载器"
+  short_description: "从抖音分享链接下载视频(MP4)和音频(MP3)到本地文件夹"
+  default_prompt: "用户提供了一个或多个抖音分享链接，需要下载对应的视频和音频文件"
